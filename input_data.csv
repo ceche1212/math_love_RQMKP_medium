@@ -1,0 +1,22 @@
+,Bulbasaur,Ivysaur,Venusaur,VenusaurMega Venusaur,Charmander,Charmeleon,Charizard,CharizardMega Charizard X,CharizardMega Charizard Y,Squirtle,Wartortle,Blastoise,BlastoiseMega Blastoise,Caterpie,Metapod,Butterfree,Weedle,Kakuna,Beedrill,BeedrillMega Beedrill,Pidgey
+Bulbasaur,0,1,1,1,0,-1,1,0,1,0,0,0,0,0,-1,0,1,0,-1,0,0
+Ivysaur,-1,0,1,-1,0,1,0,0,1,0,1,1,1,0,-1,0,0,1,0,1,0
+Venusaur,-1,1,0,-1,1,1,0,-1,0,1,1,1,1,1,0,-1,-1,1,-1,-1,-1
+VenusaurMega Venusaur,0,0,0,0,0,0,0,1,1,1,-1,1,1,0,0,0,0,0,1,-1,0
+Charmander,-1,1,1,-1,0,-1,-1,-1,1,1,1,1,1,1,-1,1,-1,1,1,1,-1
+Charmeleon,-1,1,1,-1,-1,0,1,-1,1,1,-1,1,-1,1,0,-1,-1,1,0,1,-1
+Charizard,0,1,0,0,1,0,0,0,1,0,0,1,1,1,-1,-1,1,1,0,1,0
+CharizardMega Charizard X,0,1,0,1,1,-1,0,0,0,1,1,0,1,1,-1,-1,-1,0,1,1,-1
+CharizardMega Charizard Y,-1,1,-1,-1,1,-1,-1,-1,0,1,1,1,0,0,-1,-1,1,0,0,-1,-1
+Squirtle,-1,0,1,1,1,0,-1,-1,1,0,0,1,0,1,0,1,1,1,1,-1,0
+Wartortle,-1,1,1,-1,0,-1,-1,-1,0,1,0,0,1,0,0,-1,-1,0,0,0,0
+Blastoise,-1,1,0,0,1,-1,-1,0,1,1,-1,0,1,1,-1,1,-1,1,1,0,-1
+BlastoiseMega Blastoise,-1,1,1,-1,0,0,-1,0,0,1,1,1,0,0,0,-1,-1,0,-1,0,0
+Caterpie,-1,1,0,-1,1,-1,0,-1,0,1,0,1,1,0,-1,1,-1,1,1,-1,-1
+Metapod,-1,-1,1,1,-1,-1,0,1,0,0,1,-1,1,0,0,-1,0,-1,-1,-1,1
+Butterfree,-1,1,0,-1,0,-1,0,0,0,1,0,1,0,1,0,0,-1,1,1,-1,-1
+Weedle,-1,1,0,-1,-1,0,0,1,1,1,0,1,0,0,-1,-1,0,1,0,-1,-1
+Kakuna,-1,1,0,-1,1,-1,0,-1,0,1,1,1,0,1,-1,1,-1,0,1,0,0
+Beedrill,-1,1,0,-1,1,-1,0,0,1,1,1,1,1,1,0,1,0,1,0,1,0
+BeedrillMega Beedrill,-1,1,1,-1,1,1,0,-1,1,-1,1,1,1,1,-1,-1,-1,1,1,0,0
+Pidgey,-1,1,1,1,0,1,0,0,0,1,1,0,1,1,0,-1,0,0,-1,1,0
